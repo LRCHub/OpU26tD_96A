@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Revive",
+  "base_artist": "倉木麻衣",
+  "createdAt": "2026-02-24T06:50:28.326936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "UNIONE",
+      "has_synced": true,
+      "path": "select/01_Revive_UNIONE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Revive In Me",
+      "artist": "Dreamshade",
+      "has_synced": false,
+      "path": "select/02_Revive_In_Me_Dreamshade.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rebel Revive",
+      "artist": "Jamie's Elsewhere",
+      "has_synced": false,
+      "path": "select/03_Rebel_Revive_Jamie's_Elsewhere.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "LIONE",
+      "has_synced": true,
+      "path": "select/04_Revive_LIONE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/05_Revive_Novelbright.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "The Devil Wears Prada",
+      "has_synced": true,
+      "path": "select/06_Revive_The_Devil_Wears_Prada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Revive Me",
+      "artist": "Jeremy Camp",
+      "has_synced": true,
+      "path": "select/07_Revive_Me_Jeremy_Camp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "Genki Rockets",
+      "has_synced": false,
+      "path": "select/08_Revive_Genki_Rockets.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "WorshipMob feat. Cross Worship & Osby Berry",
+      "has_synced": false,
+      "path": "select/09_Revive_WorshipMob_feat._Cross_Worship_&_Osby_Berry.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Revive",
+      "artist": "WorshipMob/Cross Worship/Osby Berry",
+      "has_synced": false,
+      "path": "select/10_Revive_WorshipMob_Cross_Worship_Osby_Berry.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Revive My Wounds",
+      "artist": "Sybreed",
+      "has_synced": false,
+      "path": "select/11_Revive_My_Wounds_Sybreed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Revive Us Again",
+      "artist": "Phil Wickham",
+      "has_synced": true,
+      "path": "select/12_Revive_Us_Again_Phil_Wickham.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Revive",
+      "artist": "倉木 麻衣",
+      "has_synced": false,
+      "path": "select/pl_01_Revive_倉木_麻衣.txt"
+    }
+  ]
+}
